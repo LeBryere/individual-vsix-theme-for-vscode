@@ -4,7 +4,7 @@
 ## Preview
 
 #### REACT
-![Resume Preview](https://github.com/LeBryere/individual-vsix-theme-for-vscode/raw/main/assets/individual-react.png)
+![Resume Preview](assets/individual-react.png)
 
 #### HTML
 ![Resume Preview](assets/individual-html.png)
@@ -36,6 +36,7 @@
    {
       "myExtension.someSetting": true
    }
+   ```
 
 ### Troubleshooting
    If you encounter issues, try reinstalling the extension or check the documentation for common problems.
