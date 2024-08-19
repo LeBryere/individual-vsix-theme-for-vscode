@@ -26,7 +26,7 @@
 
 ### Step 1: Download the Theme
    1. Go to the Releases section of this repository.
-   2. Download the latest version of the theme (individual-theme-0.0.12.vsix).
+   2. Download the latest version of the theme (`individual-theme-0.0.12.vsix`).
 
 ### Step 2: Install the Theme in Visual Studio Code
    1. Open Visual Studio Code.
