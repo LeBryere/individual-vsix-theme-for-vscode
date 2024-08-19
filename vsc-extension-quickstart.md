@@ -1,4 +1,4 @@
-## VSC Extension Quickstart
+## VSCode Extension Quickstart
 
 ---
 ## Preview
