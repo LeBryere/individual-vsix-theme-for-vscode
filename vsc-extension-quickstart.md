@@ -19,7 +19,11 @@
 ![Resume Preview](assets/individual-php.png)
 
 ### Extension Description
-   This extension helps optimize development workflows, particularly in code formatting and quick error detection.
+   This extension provides a highly contrasting theme with vibrant colors, designed to enhance code readability and focus during development.
+
+### Download the Theme
+   1. Go to the Releases section of this repository.
+   2. Download the latest version of the theme (`individual-theme-0.0.12.vsix`).
 
 ### Installation
    1. Open Visual Studio Code.
