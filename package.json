@@ -1,0 +1,40 @@
+{
+  "name": "individual-theme",
+  "displayName": "Individual Theme",
+  "description": "Individual Theme is a dark, earthy theme for VS Code",
+  "version": "0.0.12",
+  "publisher": "Leberyere",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0F111A",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "individual",
+    "theme",
+    "color-theme",
+    "dark",
+    "blue",
+    "green"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Individual Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/individual-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lebryere/individual-theme.git"
+  },
+  "homepage": "https://github.com/lebryere/individual-theme/blob/master/README.md"
+}
