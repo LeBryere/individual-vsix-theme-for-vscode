@@ -1,6 +1,6 @@
 # Individual Theme for VS Code
 
-   This is the `individual-theme-0.0.12.vsix` for Visual Studio Code.
+   Simply install the `individual-theme-0.0.12.vsix` file, and add a burst of energy to your Visual Studio Code setup.
    This extension provides a highly contrasting theme with vibrant colors, designed to enhance code readability and focus during development.
 
 ---
